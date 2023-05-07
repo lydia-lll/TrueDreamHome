@@ -1,0 +1,4 @@
+repository "UX Final@lydiacgdd@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
