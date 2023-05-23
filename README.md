@@ -1,8 +1,5 @@
 # TrueDreamHome
 **Collaborative project with Fungi  
- Project Manager: Sissy Tian   
- Researcher: Jamiez Vo  
- Developer: Lydia Lin  
 
 ### Problem Statement
 The one True Dream Home experience gives middle-aged women (25-53 years old) an opportunity to create and immerse in their dream home with their desired interior design and dream location by introducing the use of virtual reality technology
